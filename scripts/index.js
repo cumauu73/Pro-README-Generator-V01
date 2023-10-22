@@ -56,7 +56,7 @@ const questions = () => {
     ])
         .then(answers => {
             const markdown = getMarkdown(answers)
-            fs.writeFile(`../readme-files/${answers.title}.md`, markdown, err => {
+            fs.writeFile(`./readme-files/${answers.title}.md`, markdown, err => {
                 if (err) {
                     throw err
                 }

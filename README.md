@@ -10,7 +10,7 @@ To use this application, the user should clone the repository from GitHub and en
 
 ## Usage
 
-This application is used by answering questions through inquirer in the user's command line. Refer to the video below, or visit link: [video]()
+This application is used by answering questions through inquirer in the user's command line. Refer to the video below, or visit link: [video](https://cumauu73.github.io/Pro-README-Generator-V01/)
 
 ![screenshots](./assets/Screenshot%202023-10-22%20144146.png)
 
